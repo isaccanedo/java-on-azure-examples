@@ -3,7 +3,7 @@
 Este repositório do GitHub contém um conjunto de exemplos do Azure especificamente para desenvolvedores Java começarem a usar o Azure rapidamente.
 Use o rastreador de problemas para deixar comentários, arquivar problemas ou propor outros exemplos.
 
-## Getting started
+## Começando
 
 To work with these examples it is assumed you have the Azure CLI installed, and you have logged in and set your default subscription.
 If you haven't done so follow the steps below.
