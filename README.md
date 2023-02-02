@@ -15,7 +15,7 @@ _Observação: Fazer login e definir sua assinatura padrão precisa ser feito um
 Para configurar a CLI do Azure, visite [Instalar a CLI do Azure](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli).
 E assim que terminar, volte a este README.
 
-### Login into Azure
+### Entrar no Azure
 
 <!-- workflow.skip() -->
 ````shell
