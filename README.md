@@ -5,7 +5,7 @@ Use o rastreador de problemas para deixar comentários, arquivar problemas ou pr
 
 ## Começando
 
-To work with these examples it is assumed you have the Azure CLI installed, and you have logged in and set your default subscription.
+Para trabalhar com esses exemplos, supõe-se que você tenha a CLI do Azure instalada, que tenha feito logon e definido sua assinatura padrão.
 If you haven't done so follow the steps below.
 
 _Note: Logging in and setting your default subscription needs to be done once per terminal session._
