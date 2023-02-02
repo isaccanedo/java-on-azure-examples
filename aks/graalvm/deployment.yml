@@ -1,0 +1,37 @@
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: graalvm
+  labels:
+    app: graalvm
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: graalvm
+  template:
+    metadata:
+      labels:
+        app: graalvm
+    spec:
+      nodeSelector:
+        "beta.kubernetes.io/os": linux
+      containers:
+      - name: graalvm
+        image: ACR.azurecr.io/graalvm:latest
+        ports:
+        - containerPort: 8080
+          name: http
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: graalvm
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+    targetPort: 8080
+  selector:
+    app: graalvm
