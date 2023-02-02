@@ -10,7 +10,7 @@ Se ainda não o fez, siga os passos abaixo.
 
 _Note: Logging in and setting your default subscription needs to be done once per terminal session._
 
-### Install Azure CLI
+### Instale a CLI do Azure
 
 To setup the Azure CLI, please visit [Install the Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli).
 And once you are done come back to this README.
