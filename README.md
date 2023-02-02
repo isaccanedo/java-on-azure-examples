@@ -1,7 +1,7 @@
 # Exemplos de Java no Azure
 
 Este repositório do GitHub contém um conjunto de exemplos do Azure especificamente para desenvolvedores Java começarem a usar o Azure rapidamente.
-Please use the issue tracker to leave feedback, file issues or to propose other examples.
+Use o rastreador de problemas para deixar comentários, arquivar problemas ou propor outros exemplos.
 
 ## Getting started
 
