@@ -12,7 +12,7 @@ _Observação: Fazer login e definir sua assinatura padrão precisa ser feito um
 
 ### Instale a CLI do Azure
 
-To setup the Azure CLI, please visit [Install the Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli).
+Para configurar a CLI do Azure, visite [Instalar a CLI do Azure](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli).
 And once you are done come back to this README.
 
 ### Login into Azure
