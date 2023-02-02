@@ -1,4 +1,4 @@
-# Java on Azure Examples
+# Exemplos de Java no Azure
 
 This GitHub repository contains a set of Azure examples specifically for Java developers to quickly get started with Azure.
 Please use the issue tracker to leave feedback, file issues or to propose other examples.
