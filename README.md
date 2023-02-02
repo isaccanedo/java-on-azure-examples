@@ -8,7 +8,7 @@ Use o rastreador de problemas para deixar comentários, arquivar problemas ou pr
 Para trabalhar com esses exemplos, supõe-se que você tenha a CLI do Azure instalada, que tenha feito logon e definido sua assinatura padrão.
 Se ainda não o fez, siga os passos abaixo.
 
-_Observação: Logging in and setting your default subscription needs to be done once per terminal session._
+_Observação: Fazer login e definir sua assinatura padrão precisa ser feito uma vez por sessão de terminal._
 
 ### Instale a CLI do Azure
 
